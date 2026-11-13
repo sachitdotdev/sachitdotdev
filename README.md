@@ -33,8 +33,7 @@
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachitdotdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sachit's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachitdotdev&theme=tokyonight&hide_border=true" alt="Sachit's Streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachitdotdev&theme=tokyonight&hide_border=true" alt="Sachit's Streak" width="60%" />
 </div>
 
 <br/>

@@ -16,47 +16,38 @@
 
 <br/>
 
-<table>
-  <tr>
-    <td width="55%" valign="top">
-      <h3>👨‍💻 About Me</h3>
-      <ul>
-        <li>🚀 I build <b>local-first AI tools</b> and automated media pipelines.</li>
-        <li>🧠 Currently optimizing local LLM inference and GPU/VRAM utilization.</li>
-        <li>🌍 Active Open Source Contributor to <b>OpenDesign</b> (107k+ stars) and <b>OpenHands</b>.</li>
-        <li>💡 Passionate about React, FastAPI, and agentic workflows.</li>
-      </ul>
-      
-      <h3>🛠️ Tech Stack</h3>
-      <p align="left">
-        <img src="https://skillicons.dev/icons?i=py,ts,js,react,nextjs,fastapi,nodejs,postgres,docker,git,github,linux&theme=dark" alt="Tech Stack" />
-      </p>
-    </td>
-    <td width="45%" valign="top">
-      <h3>📈 GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=sachitdotdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sachit's GitHub Stats" width="100%" />
-      <br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachitdotdev&theme=tokyonight&hide_border=true" alt="Sachit's Streak" width="100%" />
-    </td>
-  </tr>
-</table>
+### 👨‍💻 About Me
+- 🚀 I build **local-first AI tools** and automated media pipelines.
+- 🧠 Currently optimizing local LLM inference and GPU/VRAM utilization.
+- 🌍 Active Open Source Contributor to **OpenDesign** (107k+ stars) and **OpenHands** (AI Agent Framework).
+- 💡 Passionate about React, FastAPI, and agentic workflows.
 
 <br/>
 
-<h3>🚀 Featured Projects</h3>
+### 🛠️ Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,react,nextjs,fastapi,nodejs,postgres,docker,git,github,linux&theme=dark" alt="Tech Stack" />
+</div>
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4>📦 <a href="https://github.com/sachitdotdev/creator-desk">CreatorDesk</a></h4>
-      <p>A local-first media pipeline using FastAPI, React, and faster-whisper. Automates audio/video processing and optimizes GPU/VRAM utilization for local LLM inference.</p>
-    </td>
-    <td width="50%">
-      <h4>🤖 Open Source Contributions</h4>
-      <p>Resolved critical React infinite loops and Pydantic schema validation errors in <b>OpenDesign</b> and <b>OpenHands</b>. Authored regression tests and passed enterprise CI pipelines.</p>
-    </td>
-  </tr>
-</table>
+<br/>
+
+### 📈 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sachitdotdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sachit's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachitdotdev&theme=tokyonight&hide_border=true" alt="Sachit's Streak" width="48%" />
+</div>
+
+<br/>
+
+### 🚀 Featured Projects
+
+#### 📦 [CreatorDesk](https://github.com/sachitdotdev/creator-desk)
+> A local-first media pipeline using FastAPI, React, and faster-whisper. Automates audio/video processing and optimizes GPU/VRAM utilization for local LLM inference.
+
+#### 🤖 Open Source Contributions
+> Resolved critical React infinite loops and Pydantic schema validation errors in **OpenDesign** and **OpenHands**. Authored regression tests and passed enterprise CI pipelines.
+
+<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=100&section=footer" />
